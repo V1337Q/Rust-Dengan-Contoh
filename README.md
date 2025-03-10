@@ -25,6 +25,7 @@ brew install rust
 
 1. Download [rustup-init.exe](https://win.rustup.rs/x86_64)
 2. Jalankan file `rustup-init.exe`
+3. 
 
 ## Table mater yang dibahas pada repository ini
 
