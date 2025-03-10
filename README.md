@@ -30,5 +30,5 @@ brew install rust
 
 | Materi | Konten |
 | ------ | ------ |
-| [Rust-Basics] | [Cara install Rust](https://github.com/verumquaerite/Rust-Dengan-Contoh/) |
+| [Rust-Basics] | https://github.com/VerumQuaerite/Rust-Dengan-Contoh/blob/main/src/variable.rs |
 
